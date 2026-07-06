@@ -1,6 +1,8 @@
 ## Yara List 
 
-### Contents
+A curated list of awesome YARA rules, tools, and resources
+
+### Table of Contents
 
 - [100 Days of YARA (#100DaysofYARA)](#100-days-of-yara-100daysofyara)
 - [Guides](#guides)
