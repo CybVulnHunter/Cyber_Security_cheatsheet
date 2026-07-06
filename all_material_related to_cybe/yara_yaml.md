@@ -1,7 +1,5 @@
 ## Yara List 
 
-[YARA](https://virustotal.github.io/yara/), the "pattern matching swiss knife for malware researchers (and everyone else)" is developed by [@plusvic](https://github.com/plusvic/) and [@VirusTotal](https://github.com/VirusTotal). View it on [GitHub](https://github.com/virustotal/yara).
-
 ### Contents
 
 - [100 Days of YARA (#100DaysofYARA)](#100-days-of-yara-100daysofyara)
