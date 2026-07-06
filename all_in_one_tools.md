@@ -3983,5 +3983,5 @@ The following are a collection of recently-released pen test tools, the reposito
 - [uDork - Google Hacking Tool](http://feedproxy.google.com/~r/PentestTools/~3/1dZLaMyTZaw/udork-google-hacking-tool.html)
 - [xnLinkFinder - A Python Tool Used To Discover Endpoints (And Potential Parameters) For A Given Target](http://www.kitploit.com/2022/10/xnlinkfinder-python-tool-used-to.html)
 
-- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused distribution with 135+ pentesting tools, cloud/IoT/automotive/forensics editions.
+
 
