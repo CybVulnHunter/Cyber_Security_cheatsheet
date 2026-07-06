@@ -1,7 +1,5 @@
 # 🛡️ Cyber Security Cheat Sheets
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/cyber-security-cheat-sheets?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/cyber-security-cheat-sheets?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
