@@ -1,9 +1,6 @@
 # Awesome Security
 
-
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
-
-Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 - [Awesome Security](#awesome-security)
   - [Network](#network)
